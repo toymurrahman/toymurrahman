@@ -1,7 +1,7 @@
 <div>
 
 <img width="100%" src="https://github.com/toymurrahman/toymurrahman/blob/main/assets/banner%20(2).png">
-<h2 align="center">👧About Me</h2>
+<h2 align="center">About Me</h2>
 <br/>
 <p align="center">
   👋 Hi there! I'm Toymur Rahman, a passionate Frontend Web Developer with expertise in ReactJS and TailwindCSS. I'm always motivated to learn new technologies to stay
