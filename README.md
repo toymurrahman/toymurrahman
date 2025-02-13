@@ -1,6 +1,6 @@
 <div>
 
-<img width="100%" src="https://github.com/toymurrahman/toymurrahman/blob/main/assets/banner%20(2).png">
+<img width="100%" src="https://github.com/toymurrahman/toymurrahman/blob/main/assets/toymur-banner.png">
 <h2 align="center">About Me</h2>
 <br/>
 <p align="center">
