@@ -11,7 +11,7 @@ updated in this constantly changing field. I love to code and fix problems.
 <div align="center">
 <h2 align="center">🚀 My Current Stats ⚒ 🚀</h2>
 <br/>
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=toymurrahman&theme=midnight-purple&card_width=500">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toymurrahman&" alt="toymurrahman" />
 </div>
 
   
@@ -82,19 +82,15 @@ updated in this constantly changing field. I love to code and fix problems.
 </div>
     
 
-<div>
-    
- <h2 align="center">⚡ GitHub Profile Summary ⚡</h2>
-<br/>
+<div align="center">
+  <h2 align="center">⚡ GitHub Profile Summary ⚡</h2>
+  <br/>
+  <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toymurrahman" /> 
+  <br/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toymurrahman&layout=compact" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=toymurrahman" />
 </div>
 
-<div align="center">
- <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toymurrahman&theme=midnight_purple"> 
- <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toymurrahman&theme=midnight_purple">
- <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toymurrahman&theme=midnight_purple">
- <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=toymurrahman&theme=midnight_purple">
- <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=toymurrahman&theme=midnight_purple&utcOffset=8">
- </div>
  </div>
 
 
