@@ -27,33 +27,33 @@ updated in this constantly changing field. I love to code and fix problems.
 <div>
   <h2 align="center">🔥 Projects 🔥</h2>
   <br/>
-    <h2>Food And Beverage</h2>
-     <a href="https://food-beverage-eaa3c.web.app/">Live Link</a>
+    <h2>QuickFit</h2>
+     <a href="https://quick-fit-client.vercel.app/">Live Link</a>
     <h3>Features</h3>
   <ul>
-    <li>Responsive Food Website design using TailwindCSS, Javascript, React, firebase, react router, node js, express, mongodb etc.</li>
-    <li>Secure user authentication and authorization using Firebase Authentication</li>
-    <li>User-friendly alerts using Sweet Alert to notify users of important information or actions.</li>
-    <li>Attractive Gallery section using React marquee component .</li>
-    <li>Toggle dark and light theme</li>
+    <li>Personalized fitness plans and progress tracking</li>
+    <li>Workout routines and meal plans tailored to individual goals"</li>
+    <li>Community support with forums and challenges</li>
+    <li>E-Shop for fitness-related products</li>
+    <li>Health and fitness calculators (e.g., BMI, calories burned)</li>
   </ul>
   <h3>Technologies</h3>
     <p>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,vscode,powershell,js,mongodb,nodejs,react,vercel,vite,tailwind,firebase,express" />
+    <img src="https://skillicons.dev/icons?i=html,vscode,powershell,js,mongodb,nodejs,react,vercel,vite,tailwind,firebase,express,next" />
     </a>
     </p>
 </div>
 <div>
-    <h2>Clothing Swap</h2>
-    <a href="https://clothing-swap-7d54d.web.app/">Live Link</a>
+    <h2>Le CelesteBD</h2>
+    <a href="https://lecelestebd.web.app/">Live Link</a>
      <h3>Features</h3>
   <ul>
-    <li>Responsive Clothing Swap website design using Css, Javascript, React, firebase, react router, node, express, mongodb etc.</li>
-    <li>Attractive view gallery section using react marquee slider.</li>
-    <li>Used new packages like react-simple-typewriter,react rating,swiper slider and may more.</li>
-    <li>Services Card Design</li>
-    <li>Used Sweet Alert</li>
+    <li>JWT-based role authentication (User, Admin).</li>
+    <li>Browse and search full food menu with categories</li>
+    <li>Admins manage users, food items, reservations, and payments</li>
+    <li>Make table reservations with preferred time and date</li>
+    <li>Stripe-powered secure payment processing</li>
   </ul>
     <h3>Technologies</h3>
     <p>
@@ -63,14 +63,14 @@ updated in this constantly changing field. I love to code and fix problems.
     </p>
 </div>
 <div>
-    <h2>News Flash</h2>
-    <a href="https://news-flash-3cb70.web.app/">Live Link</a>
+    <h2>Skill Match</h2>
+    <a href="https://skillmatch-914bf.web.app/">Live Link</a>
      <h3>Features</h3>
     <ul>
-    <li>Responsive Newspaper website design using Css, Javascript, React, firebase, react router, node, express, mongodb etc.</li>
-    <li>Attractive breaking news section using react moment and react-simple-typewriter.</li>
-    <li>Seperate dashboard layout for user and admin .</li>
-    <li>Used sweet alerts on all the crud operation ,login,logout success or error messages .</li>
+    <li>Job posting, editing, and deletion for clients</li>
+    <li>Freelancers can browse listings, place bids, and track job status.</li>
+    <li>Secure authentication with Firebase Auth, JWT, and real-time bidding workflows .</li>
+    <li>Job search and filtering by category, skills, budget, and date.</li>
     <li>This website is more user friendly and easy to use .</li>
   </ul>
     <h3>Technologies</h3>
